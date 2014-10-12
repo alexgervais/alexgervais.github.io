@@ -253,7 +253,7 @@ page.question.ponderation = 9.0;
 page = gNQ4.newPage();
 page.title = '';
 page.initQuestionBlankText(5);
-page.statement = 'Complétez cet extrait de la nouvelle «Allô» de Monique Proulx en accordant correctement les déterminants et les adjectifs.';
+page.statement = 'Complétez le poème de Louis-Honoré Fréchette en accordant correctement les déterminants et les adjectifs.';
 page.consigne = 'Sélectionnez l\'expression correcte dans chaque menu déroulant du texte.';
 page.question.questionType = 3;
 page.question.createSelect('harmonieuses', 'Mauvaise réponse!<br><br>L\'adjectif s\'accord en genre et en nombre avec le nom «massifs» (masculin/pluriel).', false, 1);
